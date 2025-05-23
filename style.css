@@ -34,7 +34,7 @@ h3 {
 }
 
 p {
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 img {
@@ -45,7 +45,7 @@ img {
 /* código omitido */
 
 /* Responsividade */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
     .conteudo {
         width: 90%;
     }
@@ -57,7 +57,7 @@ img {
     }
 
     nav ul li {
-        margin: 5px 0;
+        margin: 20px 0;
     }
 
     .cta-button {
