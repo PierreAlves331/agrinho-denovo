@@ -16,8 +16,8 @@
 
 /* Reset */
 * {
-    margin: 30;
-    padding: 30;
+    margin: 90;
+    padding:90;
     box-sizing: border-box;
     font-family: var(--font-body);
 }
